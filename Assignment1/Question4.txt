@@ -1,0 +1,8 @@
+4. (50 points +5 bonus points) Download the file "trans.txt", where every line is a transactionrepresented by a set of item ids.
+(1) Implement the Apriori algorithm to find all frequent patterns under different settings of theminimum frequency (minimum support/#transactions). Vary the minimum frequency
+minFreq as0.0001, 0.0002, 0.0003, 0.0004 and 0.0005. Report the number of frequent patterns, as well as the number of size-frequent patterns for each size with at least one frequent pattern, under eachsetting of
+minFreq. (35 points)
+(2) Try to optimize your algorithm using acceleration techniques. Explain each specific accelerationyou adopt by providing a running time comparison between adopting the acceleration and notadopting the acceleration. (10 points)
+(3) You also need to submit your code. You can use whatever programming languages you like.Please provide a readme file describing how to run your code. (5 points)
+(4) Try to make your algorithm finish computing for the task in (1) within 5 mins. The TA will run yourcode to check your algorithm's running time.
+(5 bonus points)
