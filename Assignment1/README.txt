@@ -1,6 +1,3 @@
-Au-Yeung Fung Yin
-57269800
-
 First, a class named as Apriori
 
 for the initial parts,
