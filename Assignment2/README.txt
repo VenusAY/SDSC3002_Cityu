@@ -1,6 +1,4 @@
 # Graph Core Number Calculator
-#Au-Yeung Fung Yin
-#57269800
 
 ## Description
 
